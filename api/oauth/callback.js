@@ -36,8 +36,8 @@ export default async function handler(req, res) {
     },
     body: new URLSearchParams({
       name: 'clap', // ← ここを +1 / tada などに変えてOK
-      channel: 'C02TNGTT2LB',
-      timestamp: '1744615568.673089' // ← 対象メッセージの ts
+      channel: 'C05ABCDE12',
+      timestamp: '1713859764.534567' // ← 対象メッセージの ts
     })
   });
 
